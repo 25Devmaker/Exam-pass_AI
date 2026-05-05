@@ -1,0 +1,6 @@
+pymupdf
+chromadb
+transformers
+torch
+python-telegram-bot
+requests
