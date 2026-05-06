@@ -7,4 +7,3 @@ requests
 sentence-transformers
 pyTelegramBotAPI
 openai
-generator
