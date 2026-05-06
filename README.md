@@ -6,7 +6,6 @@ colorTo: green
 sdk: docker
 pinned: false
 ---
-
 # 🎓 ExamPass AI
 
 > Ask your exam question. Get your exam answer. That's it.
