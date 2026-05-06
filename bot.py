@@ -65,6 +65,5 @@ def set_webhook():
     print(f"✅ Webhook set to {webhook_url}")
 
 if __name__ == "__main__":
-    set_webhook()
     print("🤖 ExamPass AI Telegram bot is running...")
-    app.run(host="0.0.0.0", port=7860)
+    bot.polling(none_stop=True)
