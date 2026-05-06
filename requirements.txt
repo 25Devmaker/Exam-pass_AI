@@ -6,3 +6,5 @@ python-telegram-bot
 requests
 sentence-transformers
 pyTelegramBotAPI
+openai
+generator
