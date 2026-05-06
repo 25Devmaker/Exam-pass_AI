@@ -5,3 +5,4 @@ torch
 python-telegram-bot
 requests
 sentence-transformers
+pyTelegramBotAPI
